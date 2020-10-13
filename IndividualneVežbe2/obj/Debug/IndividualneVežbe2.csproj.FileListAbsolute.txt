@@ -1,0 +1,9 @@
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\bin\Debug\IndividualneVežbe2.exe.config
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\bin\Debug\IndividualneVežbe2.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\bin\Debug\IndividualneVežbe2.pdb
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.Form1.resources
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.Properties.Resources.resources
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.csproj.GenerateResource.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\IndividualneVežbe2\obj\Debug\IndividualneVežbe2.pdb

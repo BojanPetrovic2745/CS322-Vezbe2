@@ -1,0 +1,10 @@
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\bin\Debug\CS322-StreamWriter.exe.config
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\bin\Debug\CS322-StreamWriter.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\bin\Debug\CS322-StreamWriter.pdb
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322-StreamWriter.csprojAssemblyReference.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322_StreamWriter.Form1.resources
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322_StreamWriter.Properties.Resources.resources
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322-StreamWriter.csproj.GenerateResource.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322-StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322-StreamWriter.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-StreamWriter\obj\Debug\CS322-StreamWriter.pdb

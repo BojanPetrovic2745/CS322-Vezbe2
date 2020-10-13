@@ -1,0 +1,10 @@
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\bin\Debug\CS322-Vezbe2.exe.config
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\bin\Debug\CS322-Vezbe2.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\bin\Debug\CS322-Vezbe2.pdb
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322-Vezbe2.csprojAssemblyReference.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322_Vezbe2.Properties.Resources.resources
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322-Vezbe2.csproj.GenerateResource.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322-Vezbe2.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322-Vezbe2.exe
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322-Vezbe2.pdb
+C:\Users\bojan\Documents\dev\CS322-Vezbe2\CS322-Vezbe2\obj\Debug\CS322_Vezbe2.Vežbe.resources
